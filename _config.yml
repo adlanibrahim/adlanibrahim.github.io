@@ -20,6 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", title "Projects"}
   - {file: "posts.md", icon: posts}
   - {file: "about me", icon: address-card}
+  - {file: "projects.md", icon: clipboard}
+  - {file: "search.md", icon: search}
+  - {file: "archive.html", icon: archive}
+  - {file: "about.md", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adlan045@gmail.com"}
