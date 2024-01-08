@@ -7,11 +7,11 @@ categories: media
 
 ## My first step
 
-This is one of my first attempts to try to build a personal website, you can only imagine how excited I was. After long overdue I finally decided to just do it, approaching such task can be a very daunting and time consuming, which stems not from the rarity of resources, but from the overwhelming information internet can offer. 
+This is one of my first attempts to try to build a personal website, you can only imagine how excited I was. After long overdue I finally decided to just do it, approaching such task can be a very daunting and time consuming, which stems not from the rarity of resources, but from the overwhelming information the internet can offer. 
 
 ## The criteria 
 
-Choosing the right platform is obviously the first step. Two things I had kept im mind while googling, one of them is the ease of use, I wanted to have a template that can be easily customized, plus posting on the go. The other thing is I wanted the thing to be free of charge. Obviously, paid platforms usually come with it benefits. However the option is not accessable to me right now.
+Choosing the right platform is obviously the first step. Two things that I have kept in mind while googling, one of them is the ease of use, I wanted to have a template that can easily be customized, plus posting on the go. The other thing is I wanted the thing to be free of charge. Obviously, paid platforms usually come with their benefits. However this option is not accessible to me right now.
 
 ## The platform 
 
