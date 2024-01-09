@@ -15,7 +15,7 @@ Choosing the right platform is obviously the first step. Two things that I have 
 
 ## The platform 
 
-Github is well known in tech world, I often used it to download codes from its repository so I'm a little familiar with its layout. I didn't know until lately that you can actually build a website using the so called [github pages] (https://pages.github.com/), plus posting and editing using Jekyll (see Posts). A first look at github website would frighten non-technical guys like me, it just needs time to be familiar with. Having patience is the secret ingredient to the whole thing, googling technical questions is of course a vital skill to learn, like how to add my CV to my website, and how to post (embed) a video or a pic on my blog. These kind of questions I will try to address in my blog while experimenting with different answers to find the best version for the website.
+Github is well known in tech world, I often used it to download codes from its repository so I'm a little familiar with its layout. I didn't know until lately that you can actually build a website using the so called [github pages](https://pages.github.com), plus posting and editing using Jekyll (see Posts). A first look at github website would frighten non-technical guys like me, it just needs time to be familiar with. Having patience is the secret ingredient to the whole thing, googling technical questions is of course a vital skill to learn, like how to add my CV to my website, and how to post (embed) a video or a pic on my blog. These kind of questions I will try to address in my blog while experimenting with different answers to find the best version for the website.
 
 ## The video 
 
