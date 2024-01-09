@@ -15,9 +15,9 @@ Choosing the right platform is obviously the first step. Two things that I have 
 
 ## The platform 
 
-Github is well known in tech world, I often used it to download codes from its repository so I'm a little familiar with its layout. I didn't know until lately that you can actually build a website using so called [github pages(https://pages.github.com/), and posting and editing using Jekyll (see About). A first look at github website would frighten non-technical guys like me, it just needs time to be familiar with. Having patience is the secret ingredient to the whole thing, googling technical questions is of course a vital skill to learn, like how to add my CV to my website, and how to post a video or a pic on my blog. These kind of questions I will try to address on my blog while experimenting with different answers to find the best version for me.
+Github is well known in tech world, I often used it to download codes from its repository so I'm a little familiar with its layout. I didn't know until lately that you can actually build a website using so called [github pages] (https://pages.github.com/), and posting and editing using Jekyll (see About). A first look at github website would frighten non-technical guys like me, it just needs time to be familiar with. Having patience is the secret ingredient to the whole thing, googling technical questions is of course a vital skill to learn, like how to add my CV to my website, and how to post a video or a pic on my blog. These kind of questions I will try to address on my blog while experimenting with different answers to find the best version for me.
 
 ## The video 
 
-Here is a great video which encouraged me to get my hands dirty, it is a good intro for the beginners. I followed its clear steps to the latter. Thanks to it, this is my first product. I recommend it for you, specially if you have never done a website before, like me.
+Here is a great video which encouraged me to get my hands dirty, it is a good intro for the beginners. I followed its clear steps to the latter. Thanks to , this is my first product. I recommend it for you, specially if you have never done a website before, like me.
 {% include embed.html url="https://www.youtube.com/embed/qZsgPgGdOzQ" %}
