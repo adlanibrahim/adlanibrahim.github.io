@@ -7,12 +7,17 @@ categories: media
 
 ## My first step
 
-This is one of my first attempts to try to build a personal website, you can only imagine how excited I was. After long overdue I finally decided to just do it, approaching such task can be a very daunting and time consuming, which stems not from the rarity of resources, but from the overwhelming information the internet can offer. 
+This is one of my first attempts in trying to build a personal website, you can only imagine how excited I was. After long overdue I finally decided to just do it, approaching such task can be very daunting and time consuming, which stems not from the rarity of resources, but from the overwhelming information the internet can offer. 
 
 ## The criteria 
 
-Choosing the right platform is obviously the first step. Two things that I have kept in mind while googling, one of them is the ease of use, I wanted to have a template that can easily be customized, plus posting on the go. The other thing is I wanted the thing to be free of charge. Obviously, paid platforms usually come with their benefits. However this option is not accessible to me right now.
+Choosing the right platform is obviously the first step. Two things that I have kept in my mind while googling, one of them is the ease of use, I wanted to have a template that can easily be customized, plus posting on the go. The other thing is I wanted the thing to be free of charge. Obviously, paid platforms usually come with their benefits. However this option is not accessible to me right now.
 
 ## The platform 
 
-Github is well known in tech world, I often used it to download codes from its repository so I'm a little familiar with its layout. I didn't know until lately that you can actually build a website using github pages. 
+Github is well known in tech world, I often used it to download codes from its repository so I'm a little familiar with its layout. I didn't know until lately that you can actually build a website using so called github pages [github pages](https://pages.github.com/), and posting and editing using Jekyll (see About). A first look at github website would frighten non-technical guys like me, it just needs time to be familiar with. Having patience is the secret ingredient to the whole thing, googling technical questions is of course a vital skill to learn, like how to add my CV to my website, and how to post a video or a pic on my blog. These kind of questions I will try to address on my blog while experimenting with different answers to find the best version for me.
+
+## The video 
+
+Here is a great video which encouraged me to get my hands dirty, it is a good intro for the beginners. I followed its clear steps to the latter. Thanks to it, this is my first product. I recommend it for you, specially if you have never done a website before, like me.
+{% include embed.html url="https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=gBrmnB5aOSI&format=json" %}
