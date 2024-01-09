@@ -19,5 +19,5 @@ Github is well known in tech world, I often used it to download codes from its r
 
 ## The video 
 
-Here is a great video which encouraged me to get my hands dirty, it is a good intro for the beginners. I followed its clear steps to the latter. Thanks to [kathryn schuler](https://kathrynschuler.com/) and her guidance I present my first version. So I recommend it for you, specially if you have never done a website before, just like me.
+Here is a great video which encouraged me to get my hands dirty, it is a good intro for the beginners. I followed its clear steps to the latter. Thanks to [kathryn schuler](https://kathrynschuler.com/) and her guidance I present my first version. So I recommend this video for you, specially if you have never done a website before, just like me.
 {% include embed.html url="https://www.youtube.com/embed/qZsgPgGdOzQ" %}
