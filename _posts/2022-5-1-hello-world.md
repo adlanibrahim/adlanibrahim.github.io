@@ -20,4 +20,4 @@ Github is well known in tech world, I often used it to download codes from its r
 ## The video 
 
 Here is a great video which encouraged me to get my hands dirty, it is a good intro for the beginners. I followed its clear steps to the latter. Thanks to it, this is my first product. I recommend it for you, specially if you have never done a website before, like me.
-{% include embed.html url="https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=gBrmnB5aOSI&format=json" %}
+{% include embed.html url="https://www.youtube.com/oembed?url=https://youtu.be/qZsgPgGdOzQ?si=NbQBN-X5b2a90aRTformat=json" %}
