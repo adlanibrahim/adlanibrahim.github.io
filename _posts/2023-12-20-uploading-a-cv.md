@@ -10,4 +10,4 @@ While I didn't face much troubles tweaking my profile, uploading and showing my 
 ## Uploading a CV as a pdf
 
 In your github code page just click uploading a file as this screenshot shows after you choose your pdf don't forget to commit these changes.
-![Screenshot](./assets/Screenshot.png)
+![Screenshot of github pages](./assets/Screenshot.png)
