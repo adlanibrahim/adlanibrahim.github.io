@@ -16,12 +16,9 @@ Next step is creating a html file in your github main page, and it should bear y
 once you've created a html file, next step is to open it to edit it in place, final step is to write these lines of codes: 
 
 { % highlight %}
----
-layout: default
-title: "CV"
----
 
 <object data="{{ your_website_name.github.io }}{{ site.baseurl }}/AdlanCV.pdf" type="application/pdf"></object>
+
 {% endhighlight %}
 
 that's it! don't forget to replace AdlanCV.pdf with your cv name.
