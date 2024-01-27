@@ -15,7 +15,7 @@ In your github code page just click uploading a file as this screenshot shows af
 Next step is creating a html file in your github main page, and it should bear your cv name, like: mine was AdlanCV.pdf so my html file will be named as: AdlanCV.html
 once you've created a html file, next step is to open it to edit it in place, final step is to write these lines of codes: 
 
-{ % highlight %}
+{ % highlight css %}
 
 <object data="{{ your_website_name.github.io }}{{ site.baseurl }}/AdlanCV.pdf" type="application/pdf"></object>
 
