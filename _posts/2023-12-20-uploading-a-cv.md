@@ -18,7 +18,7 @@ once you've created a html file, next step is to open it to edit it in place, fi
 
 {% highlight HTML %}
 
-<object data="{{ `your_website_name.github.io` }}{{ `site.baseurl` }}/AdlannCV.pdf" type="application/pdf"></object>
+<object data=`"{{ your_website_name.github.io }}{{ site.baseurl }}`/AdlannCV.pdf" type="application/pdf"></object>
 
 {% endhighlight %}
 
