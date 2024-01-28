@@ -23,11 +23,9 @@ layout: default
 title: "CV"
 ---
 ```
-
-<object data=`"{{ your_website_name.github.io }}{{ site.baseurl }}`/AdlannCV.pdf" type="application/pdf"></object>
+<object data=`"{{ your_website_url }}{{ site.baseurl }}`/AdlannCV.pdf" type="application/pdf"></object>
 
 {% endhighlight %}
-
 
 that's it! don't forget to replace AdlannCV.pdf with your CV name.
 
