@@ -18,11 +18,8 @@ once you've created a html file, next step is to open it to edit it in place, fi
 
 {% highlight HTML %}
 ```
----
-layout: default
-title: "CV"
----
-<object data=`"{{` your_website_url `}}``{{` site.baseurl` }}`/AdlannCV.pdf" type="application/pdf"></object>
+
+<object data="{% highlight %}{{ your_website_url }}{{ site.baseurl }}{% endhighlight %}/AdlannCV.pdf" type="application/pdf"></object>
 ```
 {% endhighlight %}
 
