@@ -12,17 +12,17 @@ While I didn't face much troubles tweaking my profile, uploading and showing my 
 In your github code page just click uploading a file as this screenshot shows after you choose your pdf don't forget to commit these changes.
 ![Screenshot](/assets/Screenshot.png)
 
-Next step is creating a html file in your github main page, and it should bear your cv name, like: mine was AdlanCV.pdf so my html file will be named as: AdlanCV.html
+Next step is creating a html file in your github main page, and it should bear your cv name, like: mine was AdlanCV.pdf so my html file will be named as: AdlannCV.html
 once you've created a html file, next step is to open it to edit it in place, final step is to write these lines of codes: 
 
 
 {% highlight HTML %}
 
-<object data="{{ adlanibrahim.github.io }}{{ site.baseurl }}/AdlannCV.pdf" type="application/pdf"></object>
+<object data="{{ your_website_name.github.io }}{{ site.baseurl }}/AdlannCV.pdf" type="application/pdf"></object>
 
 {% endhighlight %}
 
 
-that's it! don't forget to replace AdlanCV.pdf with your cv name.
+that's it! don't forget to replace AdlannCV.pdf with your CV name.
 
-In future I may change how my cv page behave, like instead of downloading it, I want to open and display it in a new tab.
+In future I may change how my CV page behave, like instead of downloading it, I want to open and display it in a new tab.
